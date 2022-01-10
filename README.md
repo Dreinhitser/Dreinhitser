@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dreinhitser
+- 👀 I’m interested in C++ programming
+- 🌱 I’m currently learning C++
+- rixter2001@mail.ru
